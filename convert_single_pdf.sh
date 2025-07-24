@@ -28,6 +28,6 @@ convert_single() {
 echo "🔄 开始转换总方案PDF..."
 
 # 只转换总方案
-convert_single "00-总方案.md" "PDF"
+convert_single "00-PDF文档目录.md" "PDF"
 
 echo "🎉 总方案PDF转换完成！"
